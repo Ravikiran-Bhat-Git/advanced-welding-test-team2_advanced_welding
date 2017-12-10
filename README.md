@@ -10,8 +10,10 @@ Implementing a cartesian controller for a robot manipulator
 
 ## Known Issues / Todo's
 
--   Creating a node for working with the arm
--   Start using Travis
+-  [ ] Setting up SonarQube
+-  [ ] Writing a node to generate waypoints for gripper to follow
+-  [ ] Getting inverse kinematic solution for waypoints
+-  [ ] Map output of inverse kinematic to correct velocities 
 
 ## Introduction
 The goal of this project is the implementation of a catesian controller that can control a manipulator smoothly and pass the welding task of the robocup competition.
