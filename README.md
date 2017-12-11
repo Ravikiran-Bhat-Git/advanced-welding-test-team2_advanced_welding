@@ -1,6 +1,6 @@
 # Advanced Welding Test - [Team 2]
 Implementing a cartesian controller for a robot manipulator
-
+[![Build Status](https://travis-ci.org/Ravikiran-Bhat-Git/advanced-welding-test-team2_advanced_welding.svg?branch=develop)](https://travis-ci.org/Ravikiran-Bhat-Git/advanced-welding-test-team2_advanced_welding)
 
 ## Team members
 *   Ravikiran Bhat- [@Ravikiran-Bhat](https://github.com/Ravikiran-Bhat-Git)
